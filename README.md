@@ -16,18 +16,19 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 
-<p align="center">
+#### 📮 Contacts
+
 <a href="https://www.linkedin.com/in/oleksandr-levak-49a134161/">
-  <img align="left" alt="Oleksander's LinkdeIN" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Oleksander's LinkdeIN" height="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/alex.levak.16">
-  <img align="left" alt="Oleksander's Facebook" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Oleksander's Facebook" height="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/s.any.ok">
-  <img align="left" alt="Oleksander's instagram" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Oleksander's instagram" height="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="sashavytvyckyj@gmail.com">
-  <img align="left" alt="Oleksander's Email" height="20" width="20"" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Oleksander's Email" height="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-</p>
+
 
