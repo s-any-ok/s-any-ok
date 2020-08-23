@@ -27,7 +27,7 @@
 <a href="https://www.instagram.com/s.any.ok">
   <img align="left" alt="Oleksander's instagram" height="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="sashavytvyckyj@gmail.com">
+<a href="https://sashavytvyckyj@gmail.com">
   <img align="left" alt="Oleksander's Email" height="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://t.me/s_any_ok"">
