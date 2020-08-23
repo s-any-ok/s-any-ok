@@ -30,7 +30,7 @@
 <a href="sashavytvyckyj@gmail.com">
   <img align="left" alt="Oleksander's Email" height="25px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://t.me/sylvenis"">
+<a href="https://t.me/s_any_ok"">
   <img align="left" alt="Oleksander's Telegram" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="https://t.me/s_any_ok"/>
 </a>
 
