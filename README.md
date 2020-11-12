@@ -24,7 +24,6 @@
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 <code><img height="40" src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" /></code>
-<code><img height="40" src="https://www.pngitem.com/pimgs/m/134-1340239_unity-3d-logo-png-transparent-png.png"></code>
 
 <code><img height="40" src="https://graker.ru/storage/app/uploads/public/5c8/f47/34c/5c8f4734cad3e493734618.png"></code>
 <code><img height="40" src="https://seeklogo.com/images/V/vagrant-logo-B214F47636-seeklogo.com.png"></code>
