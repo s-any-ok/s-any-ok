@@ -1,6 +1,5 @@
 <h1 align="center">Oleksandr Levak 👋</h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-any-ok&layout=compact&theme=radical"  />
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=s-any-ok&show_icons=true&theme=radical" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-any-ok" alt="s-any-ok" /> </p>
