@@ -1,9 +1,9 @@
-<h1 align="center">Hello there, I'm Oleksandr Levak 👋</h1>
+<h1 align="center">Oleksandr Levak 👋</h1>
 
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-any-ok&layout=compact&hide_border=true" alt="github stats"/>
-	<img src="https://github-readme-stats.vercel.app/api?username=s-any-ok&show_icons=true&count_private=truet&hide_border=true" alt="github langs"/>
-</p>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=s-any-ok&show_icons=true&theme=radical" >
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-any-ok" alt="s-any-ok" /> </p>
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-levak-49a134161/)
 
 
 
